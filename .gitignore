@@ -1,4 +1,4 @@
-e o mvnapplication.properties
+application.properties
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
